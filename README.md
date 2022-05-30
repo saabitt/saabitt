@@ -1,2 +1,1 @@
 # Aslan Aliev
-## Backend developer
